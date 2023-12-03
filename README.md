@@ -6,3 +6,8 @@
 - 😄 Pronouns: Sh-way-marco
 - ⚡ Fun fact: The end is the beginning, and the beginning is the end === DEVOPS
 - 🗣 Qoute : Everything Is Connected - DARK
+
+
+
+- 🚀 Some Tools I Use
+react angular-js bootstrap css3 javascript mongodb mysql nodejs python nginx cucumber aws gcp Docker Kubernetes
