@@ -12,3 +12,17 @@
 - 🚀 Some Tools I Use
 - :react: :jenkins: :bootstrap: :css3: :javascript: :mongodb: :mysql: :nodejs: :python: :nginx: :aws: :gcp: :Docker: :Kubernetes: :javascript:
 
+[![React](https://img.shields.io/badge/-React-%23282C34?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?logo=jenkins&logoColor=%23D24939)](https://www.jenkins.io/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=%23FFFFFF)](https://getbootstrap.com/)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=%23232F3E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%234DB33D?logo=mongodb&logoColor=%23FFFFFF)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=%23FFFFFF)](https://www.mysql.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?logo=node.js&logoColor=%23FFFFFF)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=%23FFFFFF)](https://www.python.org/)
+[![Nginx](https://img.shields.io/badge/-Nginx-%23009688?logo=nginx&logoColor=%23FFFFFF)](https://www.nginx.com/)
+[![AWS](https://img.shields.io/badge/-AWS-%23232F3E?logo=amazon-aws&logoColor=%23FF9900)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/-GCP-%234285F4?logo=google-cloud&logoColor=%23FFFFFF)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=%23FFFFFF)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?logo=kubernetes&logoColor=%23FFFFFF)](https://kubernetes.io/)
