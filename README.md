@@ -10,5 +10,5 @@
 
 
 - 🚀 Some Tools I Use
-- react angular-js bootstrap css3 javascript mongodb mysql nodejs python nginx cucumber aws gcp Docker Kubernetes :javascript:
+- :react: :jenkins: :bootstrap: :css3: :javascript: :mongodb: :mysql: :nodejs: :python: :nginx: :aws: :gcp: :Docker: :Kubernetes: :javascript:
 
