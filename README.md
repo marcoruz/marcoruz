@@ -9,8 +9,8 @@
 
 
 
-- 🚀 Some Tools I Use
-- :react: :jenkins: :bootstrap: :css3: :javascript: :mongodb: :mysql: :nodejs: :python: :nginx: :aws: :gcp: :Docker: :Kubernetes: :javascript:
+ 🚀 Some Tools I Use
+- 
 
 [![React](https://img.shields.io/badge/-React-%23282C34?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?logo=jenkins&logoColor=%23D24939)](https://www.jenkins.io/)
