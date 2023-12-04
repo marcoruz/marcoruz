@@ -26,3 +26,6 @@
 [![GCP](https://img.shields.io/badge/-GCP-%234285F4?logo=google-cloud&logoColor=%23FFFFFF)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=%23FFFFFF)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?logo=kubernetes&logoColor=%23FFFFFF)](https://kubernetes.io/)
+[![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-%2300599C?logo=c%2B%2B&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/C%2B%2B)
+
