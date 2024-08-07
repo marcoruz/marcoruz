@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcoruz
+- ![Waving Hand](https://github.com/marcoruz/marcoruz/raw/main/assets/waving-hand.gif) Hi, I’m @marcoruz
 - 👯 I’m looking to collaborate on OpenSource📖 & Create Small SaaS Based Product🚀
 - 🤔 I’m looking for help with Any Tech
 - 💬 Ask me about Future🌕
