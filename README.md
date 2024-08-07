@@ -1,6 +1,6 @@
-![Waving Hand](https://github.com/marcoruz/marcoruz/raw/main/assets/512.gif)
+![Waving Hand](./512.gif)
 
-- Hi, I’m @marcoruz
+- Hi, I’m Marco Ruzzo
 - 👯 I’m looking to collaborate on OpenSource📖 & Create Small SaaS Based Product🚀
 - 🤔 I’m looking for help with Any Tech
 - 💬 Ask me about Future🌕
