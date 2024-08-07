@@ -1,4 +1,5 @@
 <img src="./512.gif" alt="Waving Hand" width="111px">
+
 - Hi, I’m Marco Ruzzo
 - 👯 I’m looking to collaborate on OpenSource📖 & Create Small SaaS Based Product🚀
 - 🤔 I’m looking for help with Any Tech
