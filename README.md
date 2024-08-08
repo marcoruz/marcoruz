@@ -8,7 +8,7 @@
 - ⚡ Fun fact: The end is the beginning, and the beginning is the end === DEVOPS
 - 🗣 Qoute : Everything Is Connected - DARK
 
-- 🖥️ See my homepage at https://marcoruz.github.io
+- 🖥️ See my homepage at https://marcoruzzo-website.com
 - ✉️ Contact me at marco.ruzzo06@gmail.com
 
 
